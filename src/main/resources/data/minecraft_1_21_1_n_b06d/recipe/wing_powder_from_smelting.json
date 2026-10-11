@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "group": "skill_crafting",
+  "ingredient": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "result": {
+    "id": "minecraft_1_21_1_n_b06d:wing_powder",
+    "count": 1
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

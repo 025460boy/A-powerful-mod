@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "skill_crafting",
+  "pattern": [
+    "hhh"
+  ],
+  "key": {
+    "h": {
+      "item": "minecraft_1_21_1_n_b06d:hover_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft_1_21_1_n_b06d:hover_core",
+    "count": 1
+  }
+}

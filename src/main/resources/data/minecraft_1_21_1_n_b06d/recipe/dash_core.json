@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "skill_crafting",
+  "pattern": [
+    "ddd",
+    "ddd",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft_1_21_1_n_b06d:dash_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft_1_21_1_n_b06d:dash_core",
+    "count": 1
+  }
+}

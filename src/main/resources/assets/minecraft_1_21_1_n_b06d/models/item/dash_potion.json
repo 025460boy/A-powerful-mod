@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft_1_21_1_n_b06d:item/dash_potion"
+  }
+}

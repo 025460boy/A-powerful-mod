@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "skill_crafting",
+  "pattern": [
+    "c c",
+    " c ",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft_1_21_1_n_b06d:burst_crystal"
+    }
+  },
+  "result": {
+    "id": "minecraft_1_21_1_n_b06d:burst_core",
+    "count": 1
+  }
+}

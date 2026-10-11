@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "skill_crafting",
+  "pattern": [
+    " b ",
+    "b b",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft_1_21_1_n_b06d:bind_stone"
+    }
+  },
+  "result": {
+    "id": "minecraft_1_21_1_n_b06d:bind_core",
+    "count": 1
+  }
+}

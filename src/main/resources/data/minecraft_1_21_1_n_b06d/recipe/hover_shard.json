@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "skill_crafting",
+  "pattern": [
+    "ppp",
+    "pnp",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft_1_21_1_n_b06d:wing_powder"
+    },
+    "n": {
+      "item": "minecraft_1_21_1_n_b06d:shulker_nucleus"
+    }
+  },
+  "result": {
+    "id": "minecraft_1_21_1_n_b06d:hover_shard",
+    "count": 1
+  }
+}

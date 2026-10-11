@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="AutoMods"
+description='''可解锁技能模组：爆裂拳 / 抓取 / 飞行 / 冲刺。击败烈焰人、卫道士、潜影贝、鱿鱼获取稀有材料，合成核心后酿造激化液，饮用即永久解锁技能。技能 HUD 由 owo-lib 提供。'''
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+[[dependencies.${mod_id}]]
+modId="owo"
+type="required"
+versionRange="[0.12,)"
+ordering="AFTER"
+side="CLIENT"
